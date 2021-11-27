@@ -1,8 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using RestWithASPNET.Model.Context;
+using RestWithASPNET.Services;
+using RestWithASPNET.Services.Implementations;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+var connection = builder.Configuration["MySQLConnection:MySQLConnectionString"];
+builder.Services.AddDbContext<MySqlContext>(options =>
+{
+    options.UseMySql(connection, ServerVersion.AutoDetect(connection));
+});
+builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();//Injeção de independencia
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
