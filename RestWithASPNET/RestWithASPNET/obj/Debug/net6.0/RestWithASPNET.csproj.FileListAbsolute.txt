@@ -30,3 +30,4 @@ C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASP-NET5\RestW
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll

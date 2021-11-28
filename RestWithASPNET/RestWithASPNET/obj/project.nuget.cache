@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0r+dbjqn4NsIOt4pV9ODQxlQeF8rzilqOcFu3Cf+mTbCCgcdWU8ChhPfaP2CwlP4MNOYoB/tfYwy5pCxwL+wxg==",
+  "dgSpecHash": "uJJx5gPTxqQlQXttVhj43w41pH18f2WOPdrOOKfma1SRZjDYz+5RdrHq901G3RNwz3PbsMdyFuaj3asKJ6ZJYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel Brassaroto\\source\\repos\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
