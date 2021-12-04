@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "URxZtebpwMFRbs+9m2lH4Vv4gu1dtnUoGgEt4LjUgjrzQNx8bU0Ba4jTXd29DdOYWKOU9aGfsFmyC9/xFmEOfw==",
+  "dgSpecHash": "Eg4fzloTXivLnc9C0sr5T3hHDdM+vxQ0jKqfllxNBI4QLho8QRAnNghXJer/hoqigMaX1bndJUwp8LP5M8n5LQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel Brassaroto\\source\\repos\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\evolve\\3.0.0\\evolve.3.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -27,6 +28,7 @@
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\3.2.0\\pomelo.entityframeworkcore.mysql.3.2.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\pomelo.jsonobject\\2.2.1\\pomelo.jsonobject.2.2.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\Gabriel Brassaroto\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
