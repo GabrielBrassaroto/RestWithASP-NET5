@@ -1,0 +1,7 @@
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.AssemblyInfo.cs
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel Brassaroto\Source\Repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
