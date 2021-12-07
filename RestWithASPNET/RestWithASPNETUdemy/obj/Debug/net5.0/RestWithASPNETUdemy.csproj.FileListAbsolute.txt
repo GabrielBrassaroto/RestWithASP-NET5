@@ -199,3 +199,15 @@ C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWit
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\obj\Debug\net5.0\ref\RestWithASPNETUdemy.dll
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\obj\Debug\net5.0\RestWithASPNETUdemy.pdb
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\obj\Debug\net5.0\RestWithASPNETUdemy.genruntimeconfig.cache
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Evolve.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.File.dll
