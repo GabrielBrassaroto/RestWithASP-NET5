@@ -1,4 +1,5 @@
-﻿using RestWithASPNETUdemy.Model;
+﻿using RestWithASPNETUdemy.Data.VO;
+using RestWithASPNETUdemy.Model;
 using System.Collections.Generic;
 
 namespace RestWithASPNETUdemy.Business
@@ -6,10 +7,10 @@ namespace RestWithASPNETUdemy.Business
     public interface IBooksBusiness
     {
 
-        Books Create(Books books);
-        Books FindByID(long id);
-        List<Books> FindAll();
-        Books Update(Books books);
+        BooksVO Create(BooksVO books);
+        BooksVO FindByID(long id);
+        List<BooksVO> FindAll();
+        BooksVO Update(BooksVO books);
         void Delete(long id);
     }
 }
