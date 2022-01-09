@@ -13,6 +13,8 @@ using System;
 using System.Collections.Generic;
 using RestWithASPNETUdemy.Repository.Generic;
 using System.Net.Http.Headers;
+using RestWithASPNETUdemy.Hypermedia.Filters;
+using RestWithASPNETUdemy.Hypermedia.Enricher;
 
 namespace RestWithASPNETUdemy
 {
@@ -56,6 +58,11 @@ namespace RestWithASPNETUdemy
             })
                 .AddXmlSerializerFormatters();
 
+
+            var filterOptions = new HyperMediaFilterOptions();
+            filterOptions.ContentResponseEnricherList.Add(new PersonEnricher());
+
+            services.AddSingleton(filterOptions);
             //Versioning API
             services.AddApiVersioning();
 
@@ -84,6 +91,7 @@ namespace RestWithASPNETUdemy
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapControllerRoute("DefaultApi", "{controller=values}/{id?}");
             });
         }
 
