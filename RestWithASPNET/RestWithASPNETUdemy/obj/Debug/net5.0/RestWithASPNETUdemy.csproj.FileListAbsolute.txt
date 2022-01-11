@@ -211,3 +211,7 @@ C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWit
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.Console.dll
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
 C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel Brassaroto\source\repos\RestWithASP-NET5\RestWithASPNET\RestWithASPNETUdemy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

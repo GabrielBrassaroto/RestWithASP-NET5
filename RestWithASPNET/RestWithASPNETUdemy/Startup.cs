@@ -15,11 +15,15 @@ using RestWithASPNETUdemy.Repository.Generic;
 using System.Net.Http.Headers;
 using RestWithASPNETUdemy.Hypermedia.Filters;
 using RestWithASPNETUdemy.Hypermedia.Enricher;
+using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Rewrite;
 
 namespace RestWithASPNETUdemy
 {
     public class Startup
     {
+
+
         public IWebHostEnvironment Environment { get; }
 
         public IConfiguration Configuration { get; }
@@ -66,6 +70,20 @@ namespace RestWithASPNETUdemy
             //Versioning API
             services.AddApiVersioning();
 
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { 
+                Title = "Rest APis From 0 Azure with ASP NET",
+                Version = "v1",
+                Description = "API RESTfull",
+                Contact = new OpenApiContact
+                {
+                    Name ="Gabriel Brassaroto",
+                    Url = new Uri("https://github.com/GabrielBrassaroto")
+                }
+                });
+            });
+
             //Dependency Injection
             services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
 
@@ -86,6 +104,15 @@ namespace RestWithASPNETUdemy
 
             app.UseRouting();
 
+            app.UseSwagger();//gerar json 
+            app.UseSwaggerUI(c => {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json",
+                    "REST API's from 0 to azure with ASP.NET core 5 and Docker -v1");
+            });//gerar pagina html
+
+            var  option = new RewriteOptions();
+            option.AddRedirect("^$", "swagger");
+            app.UseRewriter(option);
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
